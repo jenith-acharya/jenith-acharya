@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenith Sharma Acharya</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Law Firm Site**
+- 🔭 I’m currently working on **Mern Stack Project**
 
 - 🌱 I’m currently learning **MERN Stack**
 
