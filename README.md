@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenith Sharma Acharya</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A Tech Learner</h3>
 
 - 🔭 I’m currently learning **Devops** and differnet tools to execute DevOps tasks.
 
