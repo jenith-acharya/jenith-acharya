@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jenith Sharma Acharya</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on **Mern Stack Project**
+- 🔭 I’m currently learning **Devops** and differnet tools to execute DevOps tasks.
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jenith-acharya](https://github.com/jenith-acharya)
 
